@@ -1,0 +1,39 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: gray;
+  font-size: 38px;
+  font-family: Calibri, Times New Roman, Helvetica;
+}
+
+img {
+  width: 23%
+}
+
+.body {
+  font-family: Calibri, Times New Roman, Helvetica;
+  border: 1px solid black;
+  padding-left: 10px;
+  font-size: 10px;
+  line-height: .4;
+  color: gray;
+  /margin-left: 10px;
+}
+
+.bullets {
+  background-color: none;
+  font-size: 12px
+  font-family: Calibri, Times New Roman, Helvetica;
+  color: red;
+}
+
+.footer {
+  font-family: Calibri, Times New Roman, Helvetica;
+  font-size: 14px;
+}
+
+/div{
+  border: 1px solid black;
+}
