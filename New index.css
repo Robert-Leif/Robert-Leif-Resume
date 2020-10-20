@@ -1,0 +1,42 @@
+body {
+  background-color: none;
+  
+}
+
+h1 {
+  color: black;
+  font-size: 38px;
+  font-family: Times New Roman, Helvetica;
+}
+
+img {
+  width: 25%;
+  border: 10px solid black;
+}
+
+.body {
+  font-family: Times New Roman, Helvetica;
+  padding-left: 10px;
+  font-size: 10px;
+  line-height: .4;
+  color: black;
+  text-align: center;
+  /margin-left: 10px;
+}
+
+.skills {
+  font-family: Times New Roman, Helvetica;
+  text-align: center;
+}
+
+.bullets {
+  background-color: none;
+  font-size: 12px
+  font-family: Times New Roman, Helvetica;
+  color: black;
+}
+
+.footer {
+  font-family: Times New Roman, Helvetica;
+  font-size: 14px;
+}
